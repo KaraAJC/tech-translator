@@ -1,7 +1,3 @@
----
-description: Definition
----
-
 # Term/concept
 
 ## Where is this used?

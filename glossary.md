@@ -1,7 +1,3 @@
----
-description: The Kitchen sink of definitions
----
-
 # Glossary
 
 ## Credentials
