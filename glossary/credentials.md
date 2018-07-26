@@ -14,19 +14,42 @@ Aditionally, it's important to consider any kind of credential as a valuable pie
 
 ## Rubric
 
+{% tabs %}
+{% tab title="First Tab" %}
+credentials are well documented, accurate, and secure! There are different sets of credentials per environment and developer
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="Uh-Oh" %}
+
+{% endtab %}
+{% endtabs %}
+
 GREAT
-- credentials are well documented, accurate, and secure! There are different sets of credentials per environment and developer
-MEH
-- we didn't get the credentials we need, or the credentials aren't well documented. but don't worry, they're safe & secure.
-UHOH
-- some credentials are missing, out of date, or in a public place/hard-coded.
-FIRE!
-- there are no credentials, or they're just flailing in the wind, with production-only credentials!
+
+* credentials are well documented, accurate, and secure! There are different sets of credentials per environment and developer
+
+  MEH
+
+* we didn't get the credentials we need, or the credentials aren't well documented. but don't worry, they're safe & secure.
+
+  UHOH
+
+* some credentials are missing, out of date, or in a public place/hard-coded.
+
+  FIRE!
+
+* there are no credentials, or they're just flailing in the wind, with production-only credentials!
 
 ## Resources for more info
 
 * something
 * something else
-
-
 
