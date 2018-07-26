@@ -56,7 +56,9 @@ stay tuned for the definition!
 
 ## Gems
 
-stay tuned for the definition!
+A Ruby Program packaged for other Ruby programs to use as a dependency.
+
+{% page-ref page="term-concept-template/gems.md" %}
 
 ### Gemfile
 
