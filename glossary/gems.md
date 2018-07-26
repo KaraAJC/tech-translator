@@ -12,21 +12,31 @@ Gems are how developers share best practices, through utilizing popular, tested,
 
 ## Rubric
 
-GREAT
+{% tabs %}
+{% tab title="😁 Great" %}
+😁
 
-* I have a few, up to date, standard versions of gems, and i'm using them as intended!
+I have a few, up to date, standard versions of gems, and i'm using them as intended!
+{% endtab %}
 
-  MEH
+{% tab title="😌 Meh" %}
+😌
 
-* I have a bunch of gems, and for the most part, i'm keeping an eye on them
+I have a bunch of gems, and for the most part, i'm keeping an eye on them
+{% endtab %}
 
-  UHOH
+{% tab title="😟 Uh-Oh" %}
+😟
 
-* I have a huge amount of gems, some im using, some i'm not, some are old, whatevs.
+I have a huge amount of gems, some im using, some i'm not, some are old, _whatevs_.
+{% endtab %}
 
-  FIRE!
+{% tab title="🔥 Fire" %}
+🔥
 
-* My gems are old, I'm using super specific versions, and I've even suped up some to how I WANT to use them, cause i'm a rebel.
+My gems are old, I'm using super specific versions, and I've even suped up some to how I WANT to use them, cause i'm a rebel.
+{% endtab %}
+{% endtabs %}
 
 ## Resources for more info
 

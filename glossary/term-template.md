@@ -13,27 +13,30 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 ## Rubric
 
 {% tabs %}
-{% tab title="Great" %}
-:grin:
+{% tab title="😁 Great" %}
+😁
+
 This is expected behavior, good work other team!
 {% endtab %}
 
-{% tab title="Meh" %}
-:relieved:
+{% tab title="😌 Meh" %}
+😌
+
 This is alright, we can def work with this!
 {% endtab %}
 
-{% tab title="Uh-Oh" %}
-:worried:
+{% tab title="😟 Uh-Oh" %}
+😟
+
 This makes us nervous, there's a light, but it's not what we expected..Look's like work ahead.
 {% endtab %}
 
-{% tab title="Fire" %}
-:fire:
+{% tab title="🔥 Fire" %}
+🔥
+
 OH NO! We gotta get in there and fix it! This is gonna be a stressful project!
 {% endtab %}
 {% endtabs %}
-
 
 ## Resources for more info
 
