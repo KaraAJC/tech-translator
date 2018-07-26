@@ -1,7 +1,7 @@
 # Terms & Concepts
 
 Want to submit a term or concept? use the template:
-{% page-ref page="template.md" %}
+{% page-ref page="term-template.md" %}
 
 ## Credentials
 
