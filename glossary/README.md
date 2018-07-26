@@ -1,8 +1,10 @@
-# Glossary
+# Glossary of Terms and Concepts
 
 ## Credentials
 
-any identifying info needed to get access to a resource, library, account, etc.
+Any identifying info needed to get access to a resource, library, account, etc.
+
+{% page-ref page="glossary/credentials.md" %}
 
 ## Specs
 
@@ -58,7 +60,7 @@ stay tuned for the definition!
 
 A Ruby Program packaged for other Ruby programs to use as a dependency.
 
-{% page-ref page="term-concept-template/gems.md" %}
+{% page-ref page="glossary/gems.md" %}
 
 ### Gemfile
 
@@ -143,4 +145,6 @@ stay tuned for the definition!
 ## Authorization VS Authentication
 
 stay tuned for the definition!
+
+
 
