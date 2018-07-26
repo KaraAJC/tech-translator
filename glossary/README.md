@@ -1,5 +1,8 @@
 # Terms & Concepts
 
+Want to submit a term or concept? use the template:
+{% page-ref page="template.md" %}
+
 ## Credentials
 
 Any identifying info needed to get access to a resource, library, account, etc.
