@@ -1,4 +1,4 @@
-# Term/concept
+# Terms & Concepts
 
 ## Where is this used?
 
@@ -10,15 +10,10 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 
 ## Rubric
 
-GREAT
-MEH
-UHOH
-FIRE!
+GREAT MEH UHOH FIRE!
 
 ## Resources for more info
 
 * something
 * something else
-
-
 

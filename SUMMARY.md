@@ -3,8 +3,7 @@
 * [Welcome!](README.md)
 * [Audit Checklist](audit-checklist.md)
 * [Glossary](glossary.md)
-* [Terms & Concepts](terms-and-concepts/term-concept-template.md)
-  * [Gems](terms-and-concepts/gems.md)
-
+* [Terms & Concepts](term-concept-template/README.md)
+  * [Gems](term-concept-template/gems.md)
 * [Resources](resources.md)
 
