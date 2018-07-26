@@ -2,6 +2,8 @@
 
 * [Welcome!](README.md)
 * [Glossary](glossary.md)
-* [Term/concept](term-concept.md)
+* [Terms & Concepts](terms-and-concepts/term-concept-template.md)
+  * [Gems](terms-and-concepts/gems.md)
+
 * [Audit Checklist](audit-checklist.md)
 
