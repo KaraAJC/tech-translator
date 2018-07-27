@@ -13,6 +13,9 @@ Any identifying info needed to get access to a resource, library, account, etc.
 
 This usually means Tests, or "specifications" documented as tests.
 
+
+{% page-ref page="specs.md" %}
+
 ## 3rd Party Services/Integrations
 
 A service or integration being used that is not in the full control of the dev team nor the client.
