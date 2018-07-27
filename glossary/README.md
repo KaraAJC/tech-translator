@@ -15,6 +15,10 @@ This usually means Tests, or "specifications" documented as tests.
 
 ## 3rd Party Services/Integrations
 
+A service or integration being used that is not in the full control of the dev team nor the client.
+
+{% page-ref page="third-party.md" %}
+
 ## Dependencies
 
 stay tuned for the definition!
